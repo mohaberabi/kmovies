@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kmovies</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="show_more">Show more</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="similar">Similar</string>
+    <string name="search_for_movies_or_tv_shows">"Search for movies or tv shows "</string>
+    <string name="search">Search</string>
+
+</resources>
